@@ -5,7 +5,7 @@ Ferramentas utilizadas:
 - UiPath
 
 # Objetivo
-Criar um projeto que faça extração de dados do site da Amazon e crie uma planilha de dados no excel.
+Desenvolver um projeto que extrai dados do site desejado e cria uma planilha no excel.
 
 # Projeto
 Arquivo Main do projeto: https://github.com/lucajsalcalde/UiPath-extracao/blob/main/Main.xaml
