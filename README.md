@@ -2,7 +2,7 @@
 Extração de dados utilizando a ferramenta de RPA UIPath.
 
 Ferramentas utilizadas:
--UiPath
+- UiPath
 
 # Projeto
 Arquivo Main do projeto: https://github.com/lucajsalcalde/UiPath-extracao/blob/main/Main.xaml
