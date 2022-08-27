@@ -1,6 +1,6 @@
 # Projetos utilizando UIPath
 
-Ferramentas utilizadas:
+Ferramenta utilizada:
 - UiPath
 
 # Projeto 1:
