@@ -1,11 +1,18 @@
-# UIPath-extração
-Extração de dados de um website utilizando a ferramenta de RPA UIPath.
+# Projetos utilizando UIPath
+
+Tabelas de dados a partir de dados extraidos.
 
 Ferramentas utilizadas:
 - UiPath
 
-# Projeto
+# Projeto 1:
 Arquivo Main do projeto: https://github.com/lucajsalcalde/UiPath-extracao/blob/main/Main.xaml
 
 Imagem da estrutura do projeto: https://github.com/lucajsalcalde/UiPath-extracao/blob/main/Extra%C3%A7%C3%A3oUiPath.png
 
+#Projeto 2:
+Arquivo Main do projeto:
+
+Imagem da estrutura do projeto:
+
+OBS: Neste projeto foi utilizado a estrutura de repetição WHILE.
