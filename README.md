@@ -4,7 +4,7 @@ Ferramenta utilizada:
 - UiPath
 
 # Projeto 1:
-Arquivo Main do projeto: https://github.com/lucajsalcalde/UiPath-extracao/blob/main/Main.xaml
+Arquivo Main do projeto: https://github.com/lucajsalcalde/RPA-UiPath-extracao/blob/main/MainAmazon.xaml
 
 Imagem da estrutura do projeto: https://github.com/lucajsalcalde/UiPath-extracao/blob/main/Extra%C3%A7%C3%A3oUiPath.png
 
