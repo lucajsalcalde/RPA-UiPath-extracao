@@ -1,4 +1,4 @@
-# Projetos utilizando UIPath
+# Projetos utilizando UiPath
 
 Ferramenta utilizada:
 - UiPath
