@@ -1,7 +1,5 @@
 # Projetos utilizando UIPath
 
-Tabelas de dados a partir de dados extraidos.
-
 Ferramentas utilizadas:
 - UiPath
 
@@ -10,7 +8,7 @@ Arquivo Main do projeto: https://github.com/lucajsalcalde/UiPath-extracao/blob/m
 
 Imagem da estrutura do projeto: https://github.com/lucajsalcalde/UiPath-extracao/blob/main/Extra%C3%A7%C3%A3oUiPath.png
 
-#Projeto 2:
+# Projeto 2:
 Arquivo Main do projeto:
 
 Imagem da estrutura do projeto:
